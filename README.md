@@ -1,1 +1,1 @@
-Codul implementeaza un sistem simplu de autentiicare si inregistrare folosindfisiere text pentru stocarea datelor utilizatorilor.
+Codul implementeaza un sistem simplu de autentiicare si inregistrare folosind fisiere text pentru stocarea datelor utilizatorilor.
